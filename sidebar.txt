@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sou:home|Door43 (sou)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sou|d43-sou repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sou/archive/master.zip|d43-sou.zip]]
+
+**Recent Changes**
+{{changes>ns = sou}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sou|Ethnologue data]]
+
